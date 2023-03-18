@@ -1,0 +1,13 @@
+repositories:
+
+  _externals/20191207:
+    type:             git
+    url:              https://github.com/andry81-3dparty/sgp4
+    version:          20191207
+    fetch-to-branch:  20191207
+
+  _externals/20191207-p1:
+    type:             git
+    url:              https://github.com/andry81-3dparty/sgp4
+    version:          20191207-p1
+    fetch-to-branch:  20191207-p1
